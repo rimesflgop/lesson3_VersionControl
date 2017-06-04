@@ -4,16 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+June 4, 2017
 
 ## Student Name:  
-(First and Last Name)
+Jim Rimes
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This assignemnt was to learn about Version Control and specifically the Git System.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. This lesson taugh me the concepts behind version control and why its uesful for developers and others.
+2. We learned the history of the Git system and its basic commands.
+3. Finally, we learned how to setup a Git local repository and a GitHub Remote Repository. 
